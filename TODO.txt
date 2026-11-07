@@ -1,0 +1,2 @@
+1) look into specifics of MD files, the formatting does not come out the same as in the terminal when viewed on github. 
+2) 
